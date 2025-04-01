@@ -11,4 +11,4 @@ This project demonstrates a CI/CD pipeline using GitHub Actions.
 
 ## DockerHub Image
 
-![DockerHub Image](DockerHubRepo.png)
+![DockerHub Image](screenshots/DockerHubRepo.png)
